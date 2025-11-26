@@ -1,5 +1,5 @@
 # CAS-Applied-Data-Science_UniBE
-A collection of documents, projects, and hands-on experiments showcasing my learning journey in data science
+This repo is a collection of documents, projects, and hands-on experiments showcasing my learning journey in data science
 
 # About the CAS Applied Data Science
 The CAS in Applied Data Science is a professional certificate program at the University of Bern equipping participants with practical skills and tools for real-world data analysis and machine-learning applications.
