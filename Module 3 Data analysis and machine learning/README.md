@@ -8,4 +8,10 @@ This module introduces core techniques of data analysis and machine learning. It
 - Apply clustering, classification, and regression techniques to real-world datasets.
 - Implement end-to-end machine learning workflows in Python, from data preparation to model validation.
 
-##content
+## Content of this Folder
++ Learning materials
++ Module project
+
+
+
+This work is licensed under [CCO](https://creativecommons.org/public-domain/cc0/)
