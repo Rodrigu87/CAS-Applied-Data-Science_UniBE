@@ -10,8 +10,8 @@ This module introduces the foundations of working with data in applied data scie
 
 
 ## Contents of this Folder
-md
-•	Learning materials
-•	Module project
++ Learning materials
++ Module project
+
 
  
