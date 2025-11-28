@@ -7,6 +7,6 @@ This Sub-folder contains the materiels of my final project for the CAS ADS. It c
 
 Prepared by Rodrigue Castro Gbedomon
 
-This work is licensed under [Link text]([https://example.com](https://creativecommons.org/public-domain/cc0/))
+This work is licensed under [[Link text](https://creativecommons.org/public-domain/cc0/)]([https://example.com](https://creativecommons.org/public-domain/cc0/))
 
 .
