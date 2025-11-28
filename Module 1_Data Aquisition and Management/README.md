@@ -17,4 +17,5 @@ This module introduces the foundations of working with data in applied data scie
 
 
 Prepared by Rodrigue Castro Gbedomon
-This work is licensed under [COO(https://creativecommons.org/public-domain/cc0/)]
+
+This work is licensed under [CCO](https://creativecommons.org/public-domain/cc0/)
