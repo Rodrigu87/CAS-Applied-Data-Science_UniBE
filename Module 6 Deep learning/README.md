@@ -16,4 +16,5 @@ This module introduces the foundations of deep learning, covering neural network
 - Module project
 
 
-This work is licensed under CCO
+This work is licensed under [CCO](https://creativecommons.org/public-domain/cc0/)
+
