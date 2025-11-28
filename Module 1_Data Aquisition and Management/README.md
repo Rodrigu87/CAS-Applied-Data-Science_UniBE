@@ -12,4 +12,4 @@ This module introduces the foundations of working with data in applied data scie
 •	Learning materials
 •	Module project
 
-
+ 
