@@ -6,4 +6,5 @@ The CAS in Applied Data Science is a professional certificate program at the Uni
 
 
 
+This work is licensed under [CCO](https://creativecommons.org/public-domain/cc0/)
 
