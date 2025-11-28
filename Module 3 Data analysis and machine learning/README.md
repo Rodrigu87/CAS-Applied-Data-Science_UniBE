@@ -7,3 +7,5 @@ This module introduces core techniques of data analysis and machine learning. It
 - Train, evaluate, and compare machine learning models using appropriate metrics.
 - Apply clustering, classification, and regression techniques to real-world datasets.
 - Implement end-to-end machine learning workflows in Python, from data preparation to model validation.
+
+##content
