@@ -9,7 +9,7 @@ This module introduces the foundations of working with data in applied data scie
 + Manage datasets using Python and essential data-science libraries
 
 
-## Contents of this Folder
+## Content of this Folder
 + Learning materials
 + Module project
 
