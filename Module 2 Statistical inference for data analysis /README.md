@@ -14,8 +14,5 @@ This module provides a rigorous introduction to statistical inference for data a
 
 
 
-
-Prepared by Rodrigue Castro Gbedomon
-
 This work is licensed under [CCO](https://creativecommons.org/public-domain/cc0/)
 
